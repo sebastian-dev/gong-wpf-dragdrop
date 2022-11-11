@@ -6,5 +6,6 @@
         <Title>gong-wpf-dragdrop</Title>
         <RootNamespace>GongSolutions.Wpf.DragDrop</RootNamespace>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <OutputType>Library</OutputType>
     </PropertyGroup>
 </Project>

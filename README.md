@@ -1,5 +1,7 @@
-<div align="center">
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
+<div align="center">
+  <br />
   <a href="https://github.com/punker76/gong-wpf-dragdrop">
     <img alt="gong-wpf-dragdrop" width="700" heigth="142" src="./GongSolutions.Wpf.DragDrop.Full.png">
   </a>
@@ -8,7 +10,7 @@
     An easy to use drag'n'drop framework for WPF.
   </p>
   <p>
-    Supporting .NET Framework 4.5.2+, .NET Core 3.1, .NET 5 and .NET 6 (on Windows)
+    Supporting .NET Framework 4.6.2+, .NET Core 3.1, .NET 5 and .NET 6 (on Windows)
   </p>
 
   <a href="https://gitter.im/punker76/gong-wpf-dragdrop">
@@ -42,7 +44,6 @@
   </a>
   <br />
   <br />
-
 </div>
 
 ## Features
